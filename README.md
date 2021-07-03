@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 Pronouns: He/Him
-- 💬 Ask me about anything Java related.
+- 💬 Ask me about anything Java or Architecture related.
 - 🔭 I’m currently working on https://github.com/mapstruct/mapstruct-spring-extensions
 
 <!--
